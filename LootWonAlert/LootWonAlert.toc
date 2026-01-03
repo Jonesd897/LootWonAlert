@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: LootWonAlert
+## Version: 1.3
+## Notes: Alerts for looted items.
+## Notes-ruRU: Оповещения о полученной добыче.
+## Author: Artur91425
+
+util.lua
+core.lua
